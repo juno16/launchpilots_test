@@ -1,0 +1,5 @@
+##store id and secret to use it in app
+development:
+ app_id: "335645693295633"
+ secret: 0d945647801b21eb66a6c447abcf024e
+ callback_url: http://localhost:3000/
